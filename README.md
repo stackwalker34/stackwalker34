@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stackwalker34
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C,C#,JAVA,SQL
+- 🌱 I’m currently learning C,C#,JAVA,MsSQL, Rust, TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yunus231199@ogr.duzce.edu.tr or yunusmustafa1907@gmail.com
 - 😄 Pronouns: skywalker
